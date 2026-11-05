@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# 绝不提交抓包与设备标识
+*.pcap
+*.pcapng
+*.log
+btsnoop*
+*.csv
+.env
